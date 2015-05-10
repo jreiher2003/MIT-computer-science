@@ -5,6 +5,7 @@ def rsquared(measured, estimated):
 	mMean = measured.sum()/float(len(measured))
 	var = (mMean-measured)**2
 	return 1-diffs.sum()/var.sum()
+	
 # get data from file
 def getData(fname):
 	f = open(fname, 'r')
