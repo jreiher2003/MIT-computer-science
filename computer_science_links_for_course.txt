@@ -1,0 +1,12 @@
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/lecture-1/
+
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/readings/
+
+http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap01.html
+
+
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/
+
+http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html#other-languages-have-variables
+https://www.python.org/dev/peps/pep-0008/
+left off::  Building & Splitting Dictionaries
